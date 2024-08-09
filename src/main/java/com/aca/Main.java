@@ -26,7 +26,7 @@ public class Main {
     // 重复的图片目录
     private static final Path DEL_PATH = Paths.get("");
     // 被筛选的目录
-    private static final Path SOU_PATH = Paths.get("C:\\Users\\xtkj\\Desktop\\pic\\source");
+    private static final Path SOU_PATH = Paths.get("");
 
 
     private static final ExecutorService filePool = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
