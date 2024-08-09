@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.aca</groupId>
+    <artifactId>IMG-Similraity</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <name>IMG-Similraity</name>
+    <description>IMG-Similraity</description>
+    <properties>
+        <java.version>8</java.version>
+    </properties>
+    <dependencies>
+    </dependencies>
+
+    <build>
+    </build>
+
+</project>
